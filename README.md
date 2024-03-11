@@ -1,3 +1,3 @@
 # C-programming
 <br>
-Author:Rohan Thakur
+Author: Rohan Thakur
